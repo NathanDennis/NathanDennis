@@ -32,4 +32,9 @@ After the last couple of years travelling ✈ and learning to code 👓, I'm now
 <code><img height="20" src="https://img.icons8.com/windows/32/000000/vuejs.png"></code>
 
 ![Nathan's GitHub statistics](https://github-readme-stats.vercel.app/api?username=nathandennis&show_icons=true&theme=tokyonight)
-<img width="380" height="195" align="left" src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" />
+
+<br />
+
+<img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" />
+
+
