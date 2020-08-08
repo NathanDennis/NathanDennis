@@ -31,7 +31,7 @@ After the last couple of years travelling ✈ and learning to code 👓, I'm now
 <code><img height="20" src="https://img.icons8.com/color/48/000000/golang.png"></code>
 <code><img height="20" src="https://img.icons8.com/windows/32/000000/vuejs.png"></code>
 
-![Nathan's GitHub statistics](https://github-readme-stats.vercel.app/api?username=nathandennis&show_icons=true&theme=tokyonight)
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=nathandennis&show_icons=true&theme=tokyonight" /></p>
 
 <br />
 
