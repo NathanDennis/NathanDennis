@@ -15,7 +15,7 @@ I'm Nathan 🤓 a self taught developer with most of my experience lying in Node
 
 After the last couple of years travelling ✈ and learning to code 👓, I'm now trying to get myself into the tech world and land my first programming job 🙏.
 
-- 🔭 I’m currently working on a new ecommerce project to empower digital creators
+- 🔭 I’m currently working on a mobile app for a popular cloud hosting service, as well as custom Twitch & Discord bots
 - 🌱 I’m currently learning GoLang, Docker, Redis, AWS, GraphQL
 - 💬 Ask me about anything code, gaming, dogs, Iceland or pizza related
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nathdennis/) | nathdennis@googlemail.com
