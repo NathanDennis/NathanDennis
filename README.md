@@ -13,7 +13,7 @@
 
 I'm Nathan 🤓 a self taught developer with most of my experience lying in NodeJS 💻. I have an avid interest in back end technologies including web servers, databases and API creation & interaction. I'm passionate about learning 💡 and always enjoy the challenge of learning about, and implementing new technologies in projects. 
 
-After the last couple of years travelling ✈ and learning to code 👓, I'm now trying to get myself into the tech world and land my first programming job 🙏.
+After the last couple of years travelling ✈ and learning to code 👓, I'm now trying to progress my journey in the tech world and work with forward thinking companies on exciting and challenging projects 🙏.
 
 - 🔭 I’m currently working on a mobile app for a popular cloud hosting service, custom Twitch & Discord bots as well as setting up a Raspberry Pi cluster to learn about load balancing and distributed systems on a small scale
 - 🌱 I’m currently learning GoLang, Docker, Redis, AWS, GraphQL, testing
