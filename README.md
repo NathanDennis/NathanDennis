@@ -15,8 +15,8 @@ I'm Nathan 🤓 a self taught developer with most of my experience lying in Node
 
 After the last couple of years travelling ✈ and learning to code 👓, I'm now trying to get myself into the tech world and land my first programming job 🙏.
 
-- 🔭 I’m currently working on a mobile app for a popular cloud hosting service, as well as custom Twitch & Discord bots
-- 🌱 I’m currently learning GoLang, Docker, Redis, AWS, GraphQL
+- 🔭 I’m currently working on a mobile app for a popular cloud hosting service, custom Twitch & Discord bots as well as setting up a Raspberry Pi cluster to learn about load balancing and distributed systems on a small scale
+- 🌱 I’m currently learning GoLang, Docker, Redis, AWS, GraphQL, testing
 - 💬 Ask me about anything code, gaming, dogs, Iceland or pizza related
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nathdennis/) | nathdennis@googlemail.com
 - ⚡ Fun fact: Stephen King and Jules Verne are my favourite authors
@@ -30,6 +30,12 @@ After the last couple of years travelling ✈ and learning to code 👓, I'm now
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/golang.png"></code>
 <code><img height="20" src="https://img.icons8.com/windows/32/000000/vuejs.png"></code>
+
+**Featured Projects**
+
+- [Covid-19 News Updates](https://coronavirusupdates.netlify.app/)
+- [Coronavirus Statistics Discord Bot](https://coronavirusdiscordbot.netlify.app/)
+
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=nathandennis&show_icons=true&theme=tokyonight" /></p>
 
