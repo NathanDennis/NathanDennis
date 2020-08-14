@@ -43,4 +43,4 @@ After the last couple of years travelling ✈ and learning to code 👓, I'm now
 
 <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" />
 
-
+GitHub profile stats by [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
