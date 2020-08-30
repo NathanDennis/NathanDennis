@@ -18,7 +18,7 @@ After the last couple of years travelling ✈ and learning to code 👓, I'm now
 - 🔭 I’m currently working on a mobile app for a popular cloud hosting service, custom Twitch & Discord bots as well as setting up a Raspberry Pi cluster to learn about load balancing and distributed systems on a small scale
 - 🌱 I’m currently learning GoLang, Docker, NGINX and HTTP benchmarking
 - 💬 Ask me about anything code, gaming, dogs, Iceland or pizza related
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nathdennis/) | nathdennis@googlemail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nathdennis/) | hello@nathandennis.dev 
 - ⚡ Fun fact: I'm involved in the [Eddie Jaoude open source community](https://eddiejaoudecommunity.github.io/)
 
 <br />
