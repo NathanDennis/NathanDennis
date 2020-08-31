@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
-<br />
+```diff
++ I'm available for hire
+```
 
 <a href="https://www.linkedin.com/in/nathdennis/">
   <img align="left" alt="Nathan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
