@@ -17,24 +17,23 @@ I'm Nathan 🤓 a self taught developer with most of my experience lying in Node
 
 After the last couple of years travelling ✈ and learning to code 👓, I'm now trying to progress my journey in the tech world and work with forward thinking companies on exciting and challenging projects 🙏.
 
-- 🔭 I’m currently working on a mobile app for a popular cloud hosting service, custom Twitch & Discord bots as well as setting up a Raspberry Pi cluster to learn about load balancing and distributed systems on a small scale
+- 🔭 I’m currently working on [CHOSS.gg](https://choss.gg) - an interactive game for content creators on Twitch and YouTube to play chess against their viewers
 - 🌱 I’m currently learning GoLang, Docker, Kubernetes, Redis
 - 💬 Ask me about anything code, gaming, dogs, Iceland or pizza related
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nathdennis/) | hello@nathandennis.dev 
-- ⚡ I'm involved in the [Eddie Jaoude open source community](https://eddiejaoudecommunity.github.io/)
 
 <br />
 
 **Languages and Tools:** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/golang.png"></code>
 <code><img height="20" src="https://img.icons8.com/windows/32/000000/vuejs.png"></code>
 
 **Featured Live Projects**
 
+- [Chess on Stream (CHOSS)](https://choss.gg)
 - [Covid-19 News Updates](https://coronavirusupdates.netlify.app/)
 - [Coronavirus Statistics Discord Bot](https://coronavirusdiscordbot.netlify.app/)
 
