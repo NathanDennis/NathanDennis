@@ -14,7 +14,7 @@ I'm Nathan 🤓 a self taught developer with most of my experience lying in Node
 
 After the last couple of years travelling ✈ and learning to code 👓, I'm now trying to progress my journey in the tech world and work with forward thinking companies on exciting and challenging projects 🙏.
 
-- 🔭 I worked on [CHOSS.gg](https://choss.gg) - an interactive game for content creators on Twitch and YouTube to play chess against their viewers
+- 🔭 I worked on [CHOSS.gg](https://choss.gg) (now [Chat Plays Chess](https://chatplayschess.com)) - an interactive game for content creators on Twitch and YouTube to play chess against their viewers
 - 🌱 I’m currently learning GoLang, Docker, Kubernetes, Redis
 - 💬 Ask me about anything code, gaming, dogs, Iceland or pizza related
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nathdennis/) | hello@nathandennis.dev 
